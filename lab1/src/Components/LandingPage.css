@@ -1,0 +1,17 @@
+/* LandingPage.css */
+.icon-star {
+    /* Add your icon styles here */
+    width: 24px;
+    height: 24px;
+    background: url('/path/to/your/star-icon.png') no-repeat center center;
+    background-size: contain;
+  }
+  
+  .icon-coffee-bean {
+    /* Add your icon styles here */
+    width: 24px;
+    height: 24px;
+    background: url('/path/to/your/coffee-bean-icon.png') no-repeat center center;
+    background-size: contain;
+  }
+  
